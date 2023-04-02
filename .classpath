@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/byte-buddy-1.12.22.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/failsafe-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-buffer-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-codec-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-codec-http-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-codec-socks-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-common-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-handler-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-handler-proxy-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-resolver-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-transport-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-transport-classes-epoll-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-transport-classes-kqueue-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-transport-native-epoll-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-transport-native-kqueue-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/netty-transport-native-unix-common-4.1.87.Final.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-api-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-api-logs-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-context-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-exporter-logging-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-sdk-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-sdk-common-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-sdk-extension-autoconfigure-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-sdk-extension-autoconfigure-spi-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-sdk-logs-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-sdk-metrics-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-sdk-trace-1.22.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/opentelemetry-semconv-1.22.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-api-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-api-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-chrome-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-chrome-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-chromium-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-chromium-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-devtools-v85-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-devtools-v85-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-devtools-v107-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-devtools-v107-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-devtools-v108-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-devtools-v108-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-devtools-v109-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-devtools-v109-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-edge-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-edge-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-firefox-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-firefox-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-http-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-http-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-ie-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-ie-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-java-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-java-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-json-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-json-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-manager-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-manager-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-remote-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-remote-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-safari-driver-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-safari-driver-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-support-4.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-support-4.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/slf4j-api-2.0.6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
