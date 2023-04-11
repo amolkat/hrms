@@ -13,7 +13,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
 			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
@@ -107,5 +107,14 @@
 	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-support-4.8.0.jar"/>
 	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/selenium-support-4.8.0-sources.jar"/>
 	<classpathentry kind="lib" path="C:/amol/selenium-java-4.8.0/all jar/slf4j-api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zimyo/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v109/4.8.1/selenium-devtools-v109-4.8.1.jar" sourcepath="C:/Users/zimyo/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v109/4.8.1/selenium-devtools-v109-4.8.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-devtools-v109"/>
+			<attribute name="maven.version" value="4.8.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

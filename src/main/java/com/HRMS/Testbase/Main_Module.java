@@ -20,6 +20,9 @@ public class Main_Module {
 	 @FindBy(xpath="//span[contains(text(),'apps')]")
 	private  WebElement  apps;
 	 
+	 
+	 
+	 
 //	private By apps=By.xpath("//span[contains(text(),'apps')]");
 	
 	private By dashboard = By.xpath("//span[contains(text(),'dashboard')]");

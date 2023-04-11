@@ -2,23 +2,23 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-02T15:23:39 IST" name="Default suite" finished-at="2023-04-02T15:26:00 IST" duration-ms="141388">
+  <suite started-at="2023-04-09T22:31:43 IST" name="Default suite" finished-at="2023-04-09T22:34:58 IST" duration-ms="194702">
     <groups>
     </groups>
-    <test started-at="2023-04-02T15:23:39 IST" name="Default test" finished-at="2023-04-02T15:26:00 IST" duration-ms="141388">
+    <test started-at="2023-04-09T22:31:43 IST" name="Default test" finished-at="2023-04-09T22:34:58 IST" duration-ms="194702">
       <class name="com.HRMS.Testlayer.Onboarding_Test">
-        <test-method is-config="true" signature="action_url()[pri:0, instance:com.HRMS.Testlayer.Onboarding_Test@2e385cce]" started-at="2023-04-02T15:23:39 IST" name="action_url" finished-at="2023-04-02T15:23:58 IST" duration-ms="18829" status="PASS">
+        <test-method is-config="true" signature="action_url()[pri:0, instance:com.HRMS.Testlayer.Onboarding_Test@54422e18]" started-at="2023-04-09T22:31:43 IST" name="action_url" finished-at="2023-04-09T22:32:47 IST" duration-ms="63865" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- action_url -->
-        <test-method signature="Onboarding()[pri:0, instance:com.HRMS.Testlayer.Onboarding_Test@2e385cce]" started-at="2023-04-02T15:23:58 IST" name="Onboarding" finished-at="2023-04-02T15:25:50 IST" duration-ms="112940" status="FAIL">
+        <test-method signature="Onboarding()[pri:0, instance:com.HRMS.Testlayer.Onboarding_Test@54422e18]" started-at="2023-04-09T22:32:47 IST" name="Onboarding" finished-at="2023-04-09T22:34:49 IST" duration-ms="121427" status="FAIL">
           <exception class="java.lang.ArithmeticException">
             <message>
               <![CDATA[/ by zero]]>
             </message>
             <full-stacktrace>
               <![CDATA[java.lang.ArithmeticException: / by zero
-at com.HRMS.Testlayer.Onboarding_Test.Onboarding(Onboarding_Test.java:94)
+at com.HRMS.Testlayer.Onboarding_Test.Onboarding(Onboarding_Test.java:130)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -53,7 +53,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Onboarding -->
-        <test-method is-config="true" signature="quit()[pri:0, instance:com.HRMS.Testlayer.Onboarding_Test@2e385cce]" started-at="2023-04-02T15:25:50 IST" name="quit" finished-at="2023-04-02T15:26:00 IST" duration-ms="9568" status="PASS">
+        <test-method is-config="true" signature="quit()[pri:0, instance:com.HRMS.Testlayer.Onboarding_Test@54422e18]" started-at="2023-04-09T22:34:49 IST" name="quit" finished-at="2023-04-09T22:34:58 IST" duration-ms="9365" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->

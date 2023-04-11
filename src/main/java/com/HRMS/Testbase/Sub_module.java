@@ -31,17 +31,20 @@ public class Sub_module {
       @FindBy(xpath="//p[contains(text(),\"Employee Self Service\")]")
       private WebElement ESS_btn_object_click;
       
-      //***************onboarding***************      
+      //***************organisations***************      
       
         @FindBy(xpath="//h3[contains(text(),'Onboarding')]")
     	private	 WebElement Onboarding_object;
+        
+        @FindBy(xpath = "(//div[contains(@class,\"w-100 flex-center css-16ihdvn\")])[8]//child::h3")
+        private WebElement asset_object;
  
       //********************calendar**************************
         @FindBy(xpath="//h3[contains(text(),'Shift')]")
         private WebElement shift_object;
      
         
-        
+       
         
         
 //------------------Action Repository
@@ -63,13 +66,18 @@ public class Sub_module {
        public void submodule_onboarding_click()  {    	   
     	   Onboarding_object.click();  
        }
+       
+       public void submodule_asset_click() {
+    	   asset_object.click();
+       }
+       
        //********************calendar**************************
 
        public void submodule_shift_click() {
     	   shift_object.click();
        }
 
-       
+      
        
        
        
